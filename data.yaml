@@ -1,0 +1,5 @@
+train: C:\Users\saran\Desktop\DATA SCIENCE AND ML\Plastic\Train
+val: C:\Users\saran\Desktop\DATA SCIENCE AND ML\Plastic\Validation
+
+nc: 1
+names: ['Plastic']

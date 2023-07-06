@@ -1,4 +1,10 @@
-# Plastic-FC
+# Plastic -Fc
+
+
+## Screenshot of images from prediction
+
+![DJI_0268](https://github.com/pgs17/Plastic-FC/assets/104774222/2b9a2c17-2429-4b1f-9414-c2b5627a906c)
+![DJI_0255](https://github.com/pgs17/Plastic-FC/assets/104774222/8c6cdf55-7891-42fa-882d-7760988ef2cc)
 
 
 ## Yolov8 Object Detection Project 
@@ -14,6 +20,7 @@ Computer Vision and Object Detection
  
 
 ## Objective
+
 
 This project aims to:
 

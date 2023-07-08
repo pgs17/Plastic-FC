@@ -3,11 +3,3 @@ val:   C:\Users\saran\Desktop\DATA SCIENCE AND ML\Plastic\val
 
 nc: 1
 names: ['Plastic']
-
-
-# roboflow:
-#   workspace: pgs17
-#   project: plastic-object-detection-j4qhz
-#   version: 1
-#   license: CC BY 4.0
-#   url: https://universe.roboflow.com/pgs17/plastic-object-detection-j4qhz/dataset/1

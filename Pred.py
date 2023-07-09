@@ -12,6 +12,8 @@ model=YOLO('Model2(Large).pt')
 for files in os.listdir(path):
   # print(files)
   model.predict(source=f"{path}/{files}",show=True,save=True)
+
+  # getting the geolocation 
   img=PIL.Image.open(f"{path}/{files}")
   exif={PIL.ExifTags.TAGS[k]:v
       for k,v in img._getexif().items()

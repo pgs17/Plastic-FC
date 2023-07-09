@@ -1,3 +1,4 @@
+# importing required dependencies
 import os
 import pandas as pd
 import PIL.Image
@@ -9,6 +10,8 @@ df=pd.read_csv(r"C:\Users\saran\Desktop\DATA SCIENCE AND ML\Plastic\Submission.c
 i=0
 # Selected the best model of all iterations
 model=YOLO('Model2(Large).pt')
+
+# prediction and geotagging
 for files in os.listdir(path):
   # print(files)
   model.predict(source=f"{path}/{files}",show=True,save=True)

@@ -52,6 +52,7 @@ fqdn==1.5.1
 fsspec==2023.4.0
 future @ file:///C:/b/abs_3dcibf18zi/croot/future_1677599891380/work
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
+gmplot==1.4.1
 idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
 ipykernel==6.23.3
 ipython==8.14.0

@@ -7,6 +7,9 @@
 ![DJI_0255](https://github.com/pgs17/Plastic-FC/assets/104774222/8c6cdf55-7891-42fa-882d-7760988ef2cc)
 
 
+## Youtube Video Link
+https://www.youtube.com/watch?v=0uo0-pAtFV0
+
 ## Yolov8 Object Detection Project 
 
 A Computer Vision project that allows you to detect Plastic from the river after taking images from drone and gives you the location of plastic for removal purpose and minimising water pollution
